@@ -2,6 +2,8 @@
 
 Public legal documents for [Family Tasks Timer](https://github.com/Davalgi/family-tasks-timer).
 
+> **Repository:** [github.com/Davalgi/family-tasks-timer-legal](https://github.com/Davalgi/family-tasks-timer-legal)
+
 ## GitHub Pages
 
 After enabling **Settings → Pages → Deploy from branch `main`**, folder **`/docs`**:
@@ -13,6 +15,6 @@ After enabling **Settings → Pages → Deploy from branch `main`**, folder **`/
 
 Use the **Privacy Policy** URL in App Store Connect and Google Play Console.
 
-## Repository rename
+## GitHub About description
 
-This repo was renamed from `kids-tasks-timer-legal` to `family-tasks-timer-legal`. GitHub redirects the old name automatically.
+Set the repo description to: **Legal documents for Family Tasks Timer** (replace any legacy “Kids Tasks Timer” wording).
